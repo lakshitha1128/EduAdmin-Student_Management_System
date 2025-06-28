@@ -1,9 +1,0 @@
-com\EduAdmin\StudentManagement\repository\StudentRepository.class
-com\EduAdmin\StudentManagement\exception\CustomExceptionHandler.class
-com\EduAdmin\StudentManagement\exception\StudentAleadyExistsException.class
-com\EduAdmin\StudentManagement\EduAdminBackend.class
-com\EduAdmin\StudentManagement\exception\StudentNotFoundException.class
-com\EduAdmin\StudentManagement\model\Student.class
-com\EduAdmin\StudentManagement\service\IStudentService.class
-com\EduAdmin\StudentManagement\controller\StudentController.class
-com\EduAdmin\StudentManagement\service\StudentService.class
