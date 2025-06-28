@@ -43,7 +43,7 @@ public class StudentController {
        return studentService.getStudentById(id);
    }
 
-   // New endpoint for student count
+   //  student count
    @GetMapping("/count")
    public ResponseEntity<Long> getStudentCount() {
        long count = studentService.getStudentCount();
